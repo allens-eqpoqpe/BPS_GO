@@ -1,5 +1,6 @@
 # BPS
 
+<img border="0" src="/images/BPS.png" alt="Pulpit rock" width="200" height="200">
 Branh DR*
 
 Full name 'Best path statistics'
